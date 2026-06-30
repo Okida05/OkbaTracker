@@ -10,6 +10,6 @@ if %errorlevel% neq 0 (
         pause
         exit /b
     )
-    python GhostTR.py
+    python OkbaTrack.py
 )
 pause
